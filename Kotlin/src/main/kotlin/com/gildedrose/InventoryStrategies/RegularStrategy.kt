@@ -1,0 +1,3 @@
+package com.gildedrose.InventoryStrategies
+
+class RegularStrategy: UpdateQualityStrategy
